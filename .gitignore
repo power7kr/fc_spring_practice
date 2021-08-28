@@ -152,7 +152,7 @@ Temporary Items
 .gradle
 build/
 
-# Ignore Gradle GUI config
+# Ignore Gradle GUI com.fc.springpractice.config
 gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)

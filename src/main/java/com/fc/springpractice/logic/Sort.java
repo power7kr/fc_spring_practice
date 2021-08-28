@@ -1,4 +1,4 @@
-package Logic;
+package com.fc.springpractice.logic;
 
 import java.util.List;
 
